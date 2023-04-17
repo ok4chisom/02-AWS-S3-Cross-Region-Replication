@@ -1,10 +1,10 @@
 <h1>S3 Cross Region Replication</h1>
 <!--
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
---!>
+
 <h2>Description</h2>
 Your organization want you to make a real-time copy of the object in bucket A into bucket B and they need you to make sure that this bucket are not in the same region. In order to help you out your team lead requires you to use S3 replication to solve this issue. The reason behind this is to have something to depend on in case the object in bucket A get deleted, having bucket B serve as backup and also making bucket B serve as secondary bucket in the incident of failover. This are just few of the reason your organization requires you to use S3 replication in resolving this issue.
-<br />
+-->
 
 
 <h2>Solution Overview</h2>
